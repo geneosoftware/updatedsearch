@@ -16,7 +16,7 @@
 App::uses('Component', 'Controller');
 App::uses('Hash', 'Utility');
 
-class PrgComponent extends Component {
+class UpdatedPrgComponent extends Component {
 
 /**
  * Actions used to fetch the post data

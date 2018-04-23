@@ -14,7 +14,7 @@ App::uses('ModelBehavior', 'Model');
  * Searchable behavior
  *
  */
-class SearchableBehavior extends ModelBehavior {
+class UpdatedSearchableBehavior extends ModelBehavior {
 
 /**
  * Default settings
